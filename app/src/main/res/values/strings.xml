@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">School Chat</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="action_register">Register</string>
+    <string name="welcome">Welcome,</string>
+    <string name="username">Lucas</string>
+</resources>
